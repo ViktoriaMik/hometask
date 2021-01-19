@@ -122,15 +122,13 @@
 .in_article2>.content_left {
     height: 100%;
     width: 60%;
-    background: hotpink;
-   
-}
+    background: hotpink; }
 
-in_article2>.aside {
+
+ .aside1 {
     height: 100%;
     width: 40%;
-   border: 1px solid black;
-    background: rgb(236, 227, 224);
+      background: rgb(236, 227, 224); 
 }
 .footer4{
     width: 100%;
