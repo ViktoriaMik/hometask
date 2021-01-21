@@ -1,0 +1,31 @@
+
+        .header {
+            background: rgb(129, 223, 106);
+            height: 200px;
+        }
+        .left_s {
+            background: pink;
+            height: 460px;
+        }
+
+        .right_s {
+            background: #000;
+            height: 460px;
+            padding: 0;
+            margin: 0;
+        }
+
+        .first_c {
+            background: rgb(35, 177, 165);
+            height: 230px;
+        }
+
+        .second_c {
+            background: rgb(184, 221, 218);
+            height: 230px;
+        }
+
+       .footer{
+           background: plum;
+           height: 200px;
+       }
